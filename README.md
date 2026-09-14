@@ -12,4 +12,14 @@ Atividade da aula do Ronaldo dia 14/09
    - git switch develop
 3. Criação do index.html com informações do projeto
 
-## Tecnologias utilizadas: HTML; GIT
+## Tecnologias utilizadas: 
+- HTML; 
+- GIT; 
+- BOOTSTRAP.
+
+## Dependências:
+- BOOTSTRAP (LOCAL)
+
+# Passo a passo para rodar:
+
+- Clone o projeto e abra o index.html em qualquer navegador.
